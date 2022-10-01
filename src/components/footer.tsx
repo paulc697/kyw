@@ -1,6 +1,6 @@
 const Footer = () => {
   return (
-    <footer className="p-4 bg-black fixed bottom-0 w-screen">
+    <footer className="p-4 bg-black fixed bottom-0 w-screen" id="footer">
       <div className="sm:flex sm:items-center sm:justify-between">
         <span className="text-sm text-white sm:text-center dark:text-white">
           Copyright © 2011 Knockadoon Youth Week. All rights reserved.
